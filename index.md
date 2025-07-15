@@ -88,7 +88,7 @@ This course will empower students to design and implement domain-specific progra
     - [Spiral: Extreme Performance Portability via Generative Programming](https://doi.org/10.1109/JPROC.2018.2873289)
     - [egg: Fast and extensible equality saturation](https://dl.acm.org/doi/10.1145/3434304)
     - [Caviar: an e-graph based TRS for automatic code optimization](https://doi.org/10.1145/3497776.3517781)
-Slides:
+- Slides:
     - TBD
 
 ### Vectorization
