@@ -46,6 +46,7 @@ This course will empower students to design and implement domain-specific progra
     - Stanford CS343D
 
 ### Measurement
+- Topics:
     - What is Fast? Benchmarking and Performance Metrics
     - Amdahl's Law
     - Roofline Model
@@ -92,6 +93,7 @@ Slides:
     - TBD
 
 ### Vectorization
+- Topics:
     - SSA Form
     - Cleanup Strategies in Halide
     - Auto-Vectorization
