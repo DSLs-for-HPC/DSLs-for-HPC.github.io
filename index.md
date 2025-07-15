@@ -20,8 +20,7 @@ This course will empower students to design and implement domain-specific progra
 - **Meeting Room:** Arch 107  
 - **Meeting Time:** Tuesday & Thursday, 12:30–1:45 PM
 
-## Syllabus
-
+## Schedule
 
 ### Intro
 - Topics:
@@ -207,3 +206,9 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
 - Slides:
     - Stanford CS343D
 
+## Inspired by
+- [Stanford CS343D: Domain-Specific Programming Models and Compilers](https://cs343d.github.io/course_info.html), Fredrik Kjolstad.
+- [MIT 6.172: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/),
+- [Cornell CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2025sp/syllabus/)
+- [UC Berkeley CS267: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2022), Aydin Buluc, Kathy Yelick, James Demmel.
+- [UC Berkeley CS294: Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/)
