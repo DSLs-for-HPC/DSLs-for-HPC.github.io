@@ -22,7 +22,7 @@ This course will empower students to design and implement domain-specific progra
 
 ## Schedule
 
-### Intro
+### Welcome
 - Topics:
     - Why DSLs?
     - Course Policies
