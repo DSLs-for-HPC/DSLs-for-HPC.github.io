@@ -37,10 +37,16 @@ This course will empower students to design and implement domain-specific progra
 ### Getting Started with DSLs
 - Topics:
     - What is a DSL?
-    - Lexical Analysis and Parsing
     - Abstract Syntax Trees (ASTs)
-- Readings:
-    - [BuildIt: A Type-Based Multi-stage Programming Framework for Code Generation in C++](https://doi.org/10.1109/CGO51591.2021.9370333)
+    - Lexical Analysis and Parsing
+    - Embedded DSLs (Lazy Evaluation, Functions, and Macros)
+- Readings::
+    - [Compilers: Principles, Techniques, and Tools, by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman, Second Edition, Chapter 4.1-4.3](TODO)
+    - [Functional Programming for Domain-Specific Languages](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/fp4dsls.pdf)
+    - [finch-tensor-lite embedded parser](https://github.com/finch-tensor/finch-tensor-lite/tree/main/src/finch/interface)
+- Discussion:
+    - [Terra: A Multi-Stage Language for
+High-Performance Computing](doi.org/10.1145/2491956.2462166)
 - Slides:
     - Stanford CS343D
 
@@ -49,9 +55,13 @@ This course will empower students to design and implement domain-specific progra
     - What is Fast? Benchmarking and Performance Metrics
     - Amdahl's Law
     - Roofline Model
+    - Benchmarking Compilers
 - Readings:
     - [Roofline: an insightful visual performance model for multicore architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)
+    - [Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results](https://doi.org/10.1145/2807591.2807644)
+- Discussion:
     - [Producing wrong data without doing anything obviously wrong!](https://doi.org/10.1145/1508284.1508275)
+    - [PandasBench: A Benchmark for the Pandas API](https://arxiv.org/abs/2506.02345)
 - Slides:
     - UC Berkeley CS267
 
@@ -80,13 +90,33 @@ This course will empower students to design and implement domain-specific progra
 - Slides:
     - Cornell CS 6120
 
+### Staged Programming
+- Topics:
+    - What is Staged Programming?
+- Readings:
+    - [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](https://doi.org/10.1145/1868294.1868314)
+    - [BuildIt: A Type-Based Multi-stage Programming Framework for Code Generation in C++](https://doi.org/10.1109/CGO51591.2021.9370333)
+
 ### Rewriting and Transformation
 - Topics:
     - Rewriting Systems
     - E-graphs
 - Readings:
+    - [Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies](https://steuwer.info/files/publications/2020/ICFP-Achieving-High-Performance-the-Functional-Way.pdf) [CACM](https://dl.acm.org/doi/pdf/10.1145/3580371)
+    - [Software Design for Flexibility, Chapter 4](https://mitpress.mit.edu/9780262045490/software-design-for-flexibility/)
+    - [SymbolicUtils.jl](https://docs.sciml.ai/SymbolicUtils/stable/manual/rewrite/)
+- Discussion:
     - [Spiral: Extreme Performance Portability via Generative Programming](https://doi.org/10.1109/JPROC.2018.2873289)
+
+### E-graphs
+- Topics:
+    - What is an E-graph?
+    - E-graph Representation
+    - Saturation, Search
+- Readings:
     - [egg: Fast and extensible equality saturation](https://dl.acm.org/doi/10.1145/3434304)
+- Discussion:
+    - [Guided Equality Saturation](https://steuwer.info/files/publications/2024/POPL-Guided-Equality-Saturation.pdf)
     - [Caviar: an e-graph based TRS for automatic code optimization](https://doi.org/10.1145/3497776.3517781)
 - Slides:
     - TBD
