@@ -73,7 +73,10 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
     - Mechanism Vs. Policy
     - Halide
 - Readings:
+    - [Compilers: Principles, Techniques, and Tools, by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman, Second Edition, Chapter 10.4, 11.1, 11.2, 11.3, 11.7.8, 11.11](TODO)
+- Discussion:
     - [Halide: decoupling algorithms from schedules for high-performance image processing](https://dl.acm.org/doi/10.1145/3150211)
+    - [Synthesis of High-Performance Parallel Programs for a Class of Ab Initio Quantum Chemistry Models](https://www.csc.lsu.edu/~gb/TCE/Publications/SynthApproach-ProcIEEE05.pdf)
 - Slides:
     - Stanford CS343D
     - Cornell CS 6120
@@ -86,16 +89,12 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
     - Interval Analysis
     - Heap Modeling
 - Readings:
-    - TBD
+    - [Compilers: Principles, Techniques, and Tools, by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman, Second Edition, Chapter 9](TODO)
+    - [Lecture 4, Dataflow Analysis, Cornell CS 6120](https://www.cs.cornell.edu/courses/cs6120/2025sp/lesson/4/)
+- Discussion:
+    - [Representing Data Collections in an SSA Form](https://dl.acm.org/doi/10.1109/CGO57630.2024.10444817)
 - Slides:
     - Cornell CS 6120
-
-### Staged Programming
-- Topics:
-    - What is Staged Programming?
-- Readings:
-    - [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](https://doi.org/10.1145/1868294.1868314)
-    - [BuildIt: A Type-Based Multi-stage Programming Framework for Code Generation in C++](https://doi.org/10.1109/CGO51591.2021.9370333)
 
 ### Rewriting and Transformation
 - Topics:
@@ -121,6 +120,34 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
 - Slides:
     - TBD
 
+### Sparse Array Programming
+- Topics:
+    - Domain: Sparse Arrays, Graphs, Meshes, Databases
+    - Representation
+        - Sparse Matrix Formats
+        - Columnar storage
+        - Fibertree
+- Readings: 
+    - [https://dl.acm.org/doi/10.1145/362384.362685](https://dl.acm.org/doi/10.1145/362384.362685)
+    - [Format abstraction for sparse tensor algebra compilers](https://doi.org/10.1145/3276493)
+- Slides:
+    - Stanford CS343D
+    
+### Sparse Array Programming Revisited
+- Topics:
+    - Coiteration
+        - Merge Strategies
+        - Looplets
+    - Loops and Iteration
+        - Three Major Algorithms for Matrix Multiplication
+- Readings:
+    - [Gamma: Leveraging Gustavson’s Algorithm
+to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3445814.3446702)
+    - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
+    - [Functional Collection Programming with Semi-ring Dictionaries](https://doi.org/10.1145/3527333)
+- Slides:
+    - TODO
+
 ### Vectorization
 - Topics:
     - SSA Form
@@ -128,6 +155,9 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
     - Auto-Vectorization
 - Readings:
     - [All you need is superword-level parallelism: systematic control-flow vectorization with SLP](https://doi.org/10.5281/zenodo.6392272)
+    - [Vectorization in Halide](https://halide-lang.org/tutorials/tutorial_lesson_05_scheduling_1.html)
+- Discussion:
+    - [Vectorizing Sparse Matrix Computations with Partially-Strided Codelets](doi.org/10.1109/SC41404.2022.00037)
 - Slides:
 
 ### Multicore Parallelism
@@ -136,7 +166,7 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
     - Parallel Programming Models
     - Cilk
 - Readings:
-    - TBD
+    - 
 - Slides:
     - UC Berkeley CS267
     - MIT 6.172
@@ -162,6 +192,17 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
 - Slides:
     - UC Berkeley CS267
 
+### Staged Programming
+- Topics:
+    - What is Staged Programming?
+    - Abstract Interpretation
+    - Implementations
+- Readings:
+    - [Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs](https://doi.org/10.1145/1868294.1868314)
+- Discussion:
+    - [BuildIt: A Type-Based Multi-stage Programming Framework for Code Generation in C++](https://doi.org/10.1109/CGO51591.2021.9370333)
+
+
 ### Dense Array Programming Revisited
 - Topics:
     - Revisiting Dense Array Programming
@@ -171,32 +212,6 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
 - Readings:
     - [Exocompilation for Productive Programming of Hardware Accelerators](https://dl.acm.org/doi/pdf/10.1145/3519939.3523446)
 
-### Sparse Array Programming
-- Topics:
-    - Domain: Sparse Arrays, Graphs, Meshes, Databases
-    - Representation
-        - Sparse Matrix Formats
-        - Columnar storage
-        - Fibertree
-- Readings: 
-    - [Format abstraction for sparse tensor algebra compilers](https://doi.org/10.1145/3276493)
-- Slides:
-    - Stanford CS343D
-    
-### Sparse Array Programming Revisited
-- Topics:
-    - Coiteration
-        - Merge Strategies
-        - Looplets
-    - Loops and Iteration
-        - Three Major Algorithms for Matrix Multiplication
-- Readings:
-    - [Gamma: Leveraging Gustavson’s Algorithm
-to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3445814.3446702)
-    - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
-    - [Functional Collection Programming with Semi-ring Dictionaries](https://doi.org/10.1145/3527333)
-- Slides:
-    - TODO
 
 ### Autoscheduling
 - Topics:
@@ -242,3 +257,12 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
 - [Cornell CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2025sp/syllabus/)
 - [UC Berkeley CS267: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2022), Aydin Buluc, Kathy Yelick, James Demmel.
 - [UC Berkeley CS294: Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/)
+
+
+More critical Papers:
+[Automatically tuned linear algebra software](https://dl.acm.org/doi/10.5555/509058.509096)
+[OpenTuner: An Extensible Framework for Program Autotuning](https://commit.csail.mit.edu/papers/2014/ansel-pact14-opentuner.pdf)
+[ATF: A Generic Auto-Tuning Framework](https://ieeexplore.ieee.org/document/8291912)
+[Autotuning in High-Performance Computing Applications](https://ieeexplore.ieee.org/document/8423171)
+[Automatic Performance Tuning of Sparse Matrix Kernels](https://bebop.cs.berkeley.edu/pubs/vuduc2003-dissertation.pdf)
+[Cyclops Tensor Framework: Reducing Communication and Eliminating Load Imbalance in Massively Parallel Contractions](https://ieeexplore.ieee.org/document/6569864)
