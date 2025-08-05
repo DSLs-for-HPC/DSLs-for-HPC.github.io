@@ -120,6 +120,17 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
 - Slides:
     - TBD
 
+### Autotuning
+- Topics:
+    - What is Autotuning?
+    - Autotuning Frameworks
+    - Search Space Exploration
+- Readings:
+    - [Automatically tuned linear algebra software](https://dl.acm.org/doi/10.5555/509058.509096)
+    - [OpenTuner: An Extensible Framework for Program Autotuning](https://commit.csail.mit.edu/papers/2014/ansel-pact14-opentuner.pdf)
+    - [ATF: A Generic Auto-Tuning Framework](https://ieeexplore.ieee.org/document/8291912)
+    - [Autotuning in High-Performance Computing Applications](https://ieeexplore.ieee.org/document/8423171)
+
 ### Sparse Array Programming
 - Topics:
     - Domain: Sparse Arrays, Graphs, Meshes, Databases
@@ -128,7 +139,10 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
         - Columnar storage
         - Fibertree
 - Readings: 
-    - [https://dl.acm.org/doi/10.1145/362384.362685](https://dl.acm.org/doi/10.1145/362384.362685)
+    - [Automatic Performance Tuning of Sparse Matrix Kernels](https://bebop.cs.berkeley.edu/pubs/vuduc2003-dissertation.pdf)
+    - [A relational model of data for large shared data banks](https://dl.acm.org/doi/10.1145/362384.362685)
+- Discussion:
+    - [The tensor algebra compiler](http://tensor-compiler.org/files/kjolstad-oopsla17-tensor-compiler.pdf)
     - [Format abstraction for sparse tensor algebra compilers](https://doi.org/10.1145/3276493)
 - Slides:
     - Stanford CS343D
@@ -141,8 +155,7 @@ High-Performance Computing](doi.org/10.1145/2491956.2462166)
     - Loops and Iteration
         - Three Major Algorithms for Matrix Multiplication
 - Readings:
-    - [Gamma: Leveraging Gustavson’s Algorithm
-to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3445814.3446702)
+    - [Gamma: Leveraging Gustavson’s Algorithm to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3445814.3446702)
     - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
     - [Functional Collection Programming with Semi-ring Dictionaries](https://doi.org/10.1145/3527333)
 - Slides:
@@ -166,7 +179,10 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
     - Parallel Programming Models
     - Cilk
 - Readings:
-    - 
+    - [https://dl.acm.org/doi/pdf/10.1145/277650.277725](https://dl.acm.org/doi/10.1145/277650.277725)
+- Discussion:
+    - [Heartbeat Scheduling: Provable Efficiency for Nested Parallelism](https://www.chargueraud.org/research/2018/heartbeat/heartbeat.pdf)
+    - [Tapir: Embedding Fork-Join Parallelism into LLVM’s Intermediate Representation](https://dl.acm.org/doi/pdf/10.1145/3018743.3018758)
 - Slides:
     - UC Berkeley CS267
     - MIT 6.172
@@ -180,15 +196,22 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
     - Legion
     - Communication-avoiding Matrix Multiply
 - Readings:
+    - [MapReduce: Simplified Data Processing on Large Clusters](https://storage.googleapis.com/gweb-research2023-media/pubtools/4449.pdf)
     - [DISTAL: The Distributed Tensor Algebra Compiler](https://dl.acm.org/doi/pdf/10.1145/3519939.3523437)
+    - [Legion: Expressing Locality and Independence with Logical Regions](https://legion.stanford.edu/pdfs/sc2012.pdf)
+    - [Cyclops Tensor Framework: Reducing Communication and Eliminating Load Imbalance in Massively Parallel Contractions](https://ieeexplore.ieee.org/document/6569864)
 - Slides:
     - UC Berkeley CS267
 
 ### Accelerators and GPUs
 - Topics:
     - GPU Programming Languages
+    - Data Parallel Languages
 - Readings:
-    - TBD
+- Discussion:
+    - [Taichi: a language for high-performance computation on spatially sparse data structures](https://doi.org/10.1145/3355089.3356506)
+    - [Task-Based Tensor Computations on Modern GPUs](https://d1qx31qr3h6wln.cloudfront.net/publications/Cypress_PLDI_25.pdf)
+    - 
 - Slides:
     - UC Berkeley CS267
 
@@ -206,12 +229,11 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
 ### Dense Array Programming Revisited
 - Topics:
     - Revisiting Dense Array Programming
-    - Stencil Compilation
-    - Polyhedral Model
-    - Exo
 - Readings:
+    - [A Practical Automatic Polyhedral Parallelizer and Locality Optimizer](https://doi.org/10.1145/1375581.1375595)
+    - [The Pochoir Stencil Compiler](https://doi.org/10.1145/1989493.1989508)
+- Discussion:
     - [Exocompilation for Productive Programming of Hardware Accelerators](https://dl.acm.org/doi/pdf/10.1145/3519939.3523446)
-
 
 ### Autoscheduling
 - Topics:
@@ -220,10 +242,12 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
         - Search Space
         - Search Strategy
         - Cost Model
+    - Autotuning vs. Autoscheduling
     - Search Space Characterization
     - Search Strategies
 - Readings:
-        - [Learning to Optimize Halide with Tree Search and Random Program](https://halide-lang.org/papers/autoscheduler2019.html)
+    - [Learning to Optimize Halide with Tree Search and Random Program](https://halide-lang.org/papers/autoscheduler2019.html)
+    -
 - Slides:
     TBD
     
@@ -233,9 +257,10 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
         - Feature-based/ML
         - Sparse Cost Models/Cardinality Estimation
 - Readings:
-    - [Autoscheduling for sparse tensor algebra with an asymptotic cost model](https://doi.org/10.1145/3519939.3523442)
-    - [Galley: Modern Query Optimization for Sparse Tensor Programs](https://doi.org/10.1145/3519939.3523440)
     - [How to Architect a Query Compiler](https://doi.org/10.1145/2882903.2915244)
+    - [Autoscheduling for sparse tensor algebra with an asymptotic cost model](https://doi.org/10.1145/3519939.3523442)
+- Discussion:
+    - [Galley: Modern Query Optimization for Sparse Tensor Programs](https://doi.org/10.1145/3519939.3523440)
 - Slides:
     - TBD
 
@@ -247,6 +272,7 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
     - Turn off Compilation
 - Readings:
     - [Firefox's Baseline WebAssembly Compiler](https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/)
+- Discussion:
     - [Copy-and-Patch Compilation](https://fredrikbk.com/copy-and-patch.html)
 - Slides:
     - Stanford CS343D
@@ -257,12 +283,3 @@ to Accelerate Sparse Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3
 - [Cornell CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2025sp/syllabus/)
 - [UC Berkeley CS267: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2022), Aydin Buluc, Kathy Yelick, James Demmel.
 - [UC Berkeley CS294: Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/)
-
-
-More critical Papers:
-[Automatically tuned linear algebra software](https://dl.acm.org/doi/10.5555/509058.509096)
-[OpenTuner: An Extensible Framework for Program Autotuning](https://commit.csail.mit.edu/papers/2014/ansel-pact14-opentuner.pdf)
-[ATF: A Generic Auto-Tuning Framework](https://ieeexplore.ieee.org/document/8291912)
-[Autotuning in High-Performance Computing Applications](https://ieeexplore.ieee.org/document/8423171)
-[Automatic Performance Tuning of Sparse Matrix Kernels](https://bebop.cs.berkeley.edu/pubs/vuduc2003-dissertation.pdf)
-[Cyclops Tensor Framework: Reducing Communication and Eliminating Load Imbalance in Massively Parallel Contractions](https://ieeexplore.ieee.org/document/6569864)
