@@ -1,0 +1,25 @@
+---
+---
+
+@import "jekyll-theme-chirpy";
+
+/* Custom CSS to allow table cell text wrapping */
+
+.table-wrapper > table thead th,
+.table-wrapper > table tbody tr td {
+  white-space: normal !important;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+/* Optional: Set a maximum width for better readability */
+.table-wrapper > table {
+  table-layout: fixed;
+}
+
+/* Ensure table cells have reasonable width distribution */
+.table-wrapper > table th,
+.table-wrapper > table td {
+  max-width: 0;
+  overflow-wrap: break-word;
+}
