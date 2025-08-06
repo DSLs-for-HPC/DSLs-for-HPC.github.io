@@ -6,7 +6,7 @@ layout: page
 # CS8803-DSL: Domain Specific Languages for High Performance Computing
 CRN-93621
 
-This course will empower students to design and implement domain-specific programming languages (DSLs) to solve problems in high-performance computing (HPC) contexts. Students will learn basics of compiler construction and language design as it relates to the challenges of high-performance computing and performance engineering. The course will cover topics such as architectural modelling, optimization techniques, and program analysis, through the context of contemorary DSLs and research in the field. The course will be project-focused, with a few assignments and a final project to design and implement a DSL for some HPC problem.
+This course will empower students to design and implement domain-specific programming languages (DSLs) to solve problems in high-performance computing (HPC) contexts. Students will learn basics of compiler construction and language design as it relates to the challenges of high-performance computing and performance engineering. The course will cover topics such as architectural modelling, optimization techniques, and program analysis, through the context of contemorary DSLs and research in the field. It is my hope that any student taking the course will leave with the skills to build compilers to solve programming problems in their own HPC research areas. The course will be project-focused, with a few assignments and a final project to design and implement a DSL for some HPC problem.
 
 > **Note:** This course website is currently under construction. Please check back later for more information.
 
