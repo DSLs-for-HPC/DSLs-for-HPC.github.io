@@ -1,0 +1,8 @@
+table td {
+  /* For older browsers */
+  word-wrap: break-word; 
+  /* Standard property */
+  overflow-wrap: break-word; 
+  /* Optional: Forces breaks between characters */
+  /* word-break: break-all; */ 
+}
