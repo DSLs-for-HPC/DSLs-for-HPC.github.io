@@ -10,14 +10,9 @@
   hyphens: auto;
 }
 
-/* Optional: Set a maximum width for better readability */
-.table-wrapper > table {
-  table-layout: fixed;
-}
-
 /* Ensure table cells have reasonable width distribution */
 .table-wrapper > table th,
 .table-wrapper > table td {
-  max-width: 0;
+  max-width: 60em;
   overflow-wrap: break-word;
 }
