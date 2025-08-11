@@ -58,9 +58,17 @@ This space is what we make it. We can work to create a space where we feel comfo
 
 Guidelines are taken from [UMich CRLT Guidelines For Classroom Interactions](https://crlt.umich.edu/examples-discussion-guidelines).
 
-## Non-Discrimination and Harassment
+## Inclusion
 
-I seek to provide a professional and respectful environment for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or class. I do not tolerate harassment in any form. Sexual language and imagery are not appropriate. Anyone violating these rules will be removed from the course.
+I seek to create a learning environment welcoming of all students that supports a diversity of thoughts, perspectives and experiences and respects your identities and backgrounds (including race, ethnicity, nationality, gender identity, socioeconomic class, sexual orientation, language, religion, ability, and more.) To help accomplish this:
+
+- If your name and/or pronouns differ from those that appear in your official records, please let me know.
+- If you feel like your performance in the class is being affected by your experiences outside of class (e.g., family matters, current events), please don’t hesitate to come and talk with me. I want to be a resource for you.
+- I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it.
+- As a participant in this class, recognize that you can be proactive about making other students feel included and respected.
+
+If individuals are disrespectful to students, course staff, or others via course resources, they will lose access to course resources. E.g., if someone is unkind in the course channel, their account will be removed from the channel.
+
 
 ## Academic Integrity
 
@@ -69,10 +77,10 @@ Georgia Tech aims to cultivate a community based on trust, academic integrity, a
 ## Statement on the use of Generative AI
 
 This is a graduate-level course designed to prepare you for the rigors of academia and the workforce.  I want students to feel free to use any tools at their disposal, as if they were submitting to a journal, following [SIGPLAN disclosure requirements for generative AI](https://www.acm.org/publications/policies/new-acm-policy-on-authorship). I have the following cautions:
-- Computer science is a competitive field, in both academia and industry. Every person in the field has the same access to AI tools, including those who have not taken this course. Ask yourself whether your use of generative AI in this course helps you to develop a competitive edge.
-- This is a graduate-level course designed to prepare you for the rigors of academia, and you will be judged as if you are submitting your final project to a top conference. I am a harsh reviewer. Ask yourself if you trust the generative AI with the critical sections of your report.
-- The out of state undergraduate tuition for Georgia tech is $56,302 per year. Assuming 8 classes per year, ask yourself if you want to pay $7037.75 for generative AI to think for you.
+- Computer science is a competitive field, and everyone in the workforce has the same access to AI tools, including those who have not taken this course. Ask yourself whether your use of generative AI helps you develop an edge.
+- You will be graded on what you submit. I am a harsh reviewer. Ask yourself if you trust generative AI with the critical sections of your report.
+- Georgia Tech tuition is $56,302 per year. Ask yourself how much you want to pay for generative AI to think for you.
 
-## Accommodations for Individuals with Disabilities
+## Accommodations
 
-If you are a student with learning needs that require special accommodation, contact the Office of Disability Services at (404)894-2563 or http://disabilityservices.gatech.edu/, as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter.  Please also e-mail me as soon as possible in order to set up a time to discuss your learning needs.  Note that this also applies to any difficulty you may have with the course project.
+I respect the different learning needs of my students, and am committed to ensuring you have the resources you need to succeed in this class. If you need religious or disability-related accommodations, if you have emergency medical information you wish to share, if there are other extenuating circumstances, please share this information with me as soon as possible. You may speak with me after class or during office hours. If needed, contact the Office of Disability Services at (404)894-2563 or http://disabilityservices.gatech.edu/, as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter.
