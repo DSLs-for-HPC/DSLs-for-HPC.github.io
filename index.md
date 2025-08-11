@@ -13,7 +13,7 @@ This course will empower students to design and implement Domain-Specific progra
 By the end of this course, students will be able to:
 - Measure and analyze the performance of compilers and HPC programs.
 - Design and implement languages to capture concepts in data/scientific domains.
-- Embed/integrate DSLs in existing programming languages and frameworks.
+- Embed/integrate DSLs within existing programming languages and frameworks.
 - Adapt languages to model and target HPC architectures.
 - Apply optimization techniques to improve the performance of generated programs. 
 - Communicate technical concepts to build your career in academic contexts.
@@ -34,6 +34,11 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - **Office Hours:** TBA
 - **Meeting Room:** Arch 107  
 - **Meeting Time:** Tuesday & Thursday, 12:30–1:45 PM
+
+## Course Materials
+
+- **Textbook:** [Compilers: Principles, Techniques, and Tools](https://dl.acm.org/doi/10.5555/1177220) (also known as the Dragon Book). I highly recommend you purchase a physical copy of this book, as it is a classic reference text in the field. Please let me know if you have any issues accessing the book, or if cost is an issue.
+- **Additional Readings:** Additional readings will be recommended throughout the course. You will need to authenticate to the [Georgia Tech Library Proxy](https://library.gatech.edu/research-help-support/accessing-eresources) to access the official versions of these readings. For convenience, try adding the papers you read to a citation manager, such as [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/).
 
 ## Schedule
 

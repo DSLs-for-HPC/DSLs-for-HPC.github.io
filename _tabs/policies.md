@@ -6,8 +6,12 @@ order: 1
 
 # Course Policies
 
+## Student-Faculty Expectations
 
-## Group Work
+This semester is my first attempt at implementing this course and will contain some experimentation. I appreciate your feedback throughout the semester on what is or is not enhancing your learning experience. Thank you in advance for your commitment to doing well in this course. I will in turn commit to doing my best for this course to help you a more effective, driven engineer. Consider the [Georgia Tech Student-Faculty Expectations](https://catalog.gatech.edu/rules/22/).
+
+
+## Collaboration
 
 Group work is not allowed on homework assignments or projects. Each student must submit their own work. However, students are encouraged to discuss concepts, problems, and projects with each other to enhance understanding. Students will have a chance to discuss or work in groups in class, but all submissions must be individual.
 
@@ -15,10 +19,7 @@ Group work is not allowed on homework assignments or projects. Each student must
 
 This course uses a fixed grading scale. The course will be graded based on participation, homework and a final project. 
 
-Individual grading for each assignment is specified separately. The grading distribution is as follows:
-
-## Course Requirements and Grading
-The grading distribution for this course are as follows.
+Individual grading for each assignment and the project will be specified separately. The grading distribution is as follows:
 
 ### Item Weight
 - Participation 25%
@@ -26,6 +27,15 @@ The grading distribution for this course are as follows.
 - Assignments 25%
     - To support learning during homework excercises, I am allowing one homework resubmission, due one week after the graded homework has been returned.
 - Project 50%
+
+### Brackets:
+- A (90-100%)
+- B (80-89%)
+- C (70-79%)
+- D (60-69%)
+- F (0-59%)
+
+Passing grades are C or higher.
 
 ### Late Policy
 
@@ -59,7 +69,7 @@ I seek to create a learning environment welcoming of all students that supports 
 
 - If your name and/or pronouns differ from those that appear in your official records, please let me know.
 - If you feel like your performance in the class is being affected by your experiences outside of class (e.g., family matters, current events), please don’t hesitate to come and talk with me. I want to be a resource for you.
-- I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it.
+- I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. You can also talk to the 
 - As a participant in this class, recognize that you can be proactive about making other students feel included and respected.
 
 If individuals are disrespectful to students, course staff, or others via course resources, they will lose access to course resources. E.g., if someone is unkind in the course channel, their account will be removed from the channel.
@@ -67,7 +77,7 @@ If individuals are disrespectful to students, course staff, or others via course
 
 ## Academic Integrity
 
-Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For information on Georgia Tech's Academic Honor Code, please visit the [policies website](http://www.catalog.gatech.edu/policies/honor-code/) or [rules website](http://www.catalog.gatech.edu/rules/18/).  Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will cause immense disappointment to the instructor and be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
+Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For information on Georgia Tech's Academic Honor Code, please visit the [policies website](http://www.catalog.gatech.edu/policies/honor-code/) .  Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will cause immense disappointment to the instructor and be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
 
 ## Statement on the use of Generative AI
 
