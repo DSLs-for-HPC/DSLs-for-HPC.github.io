@@ -23,14 +23,9 @@ The grading distribution for this course are as follows.
 ### Item Weight
 - Participation 25%
     - 2 points per class: 1 point for attendance, and 1 point for contributing to the discussion.
-    - 5 classes will be dropped from the participation grade.
 - Assignments 25%
     - To support learning during homework excercises, I am allowing one homework resubmission, due one week after the graded homework has been returned.
 - Project 50%
-    - Project Proposal 5%
-    - Project Presentation 10%
-    - Project Report 25%
-    - Project Artifact 10%
 
 ### Late Policy
 
