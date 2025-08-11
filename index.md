@@ -21,8 +21,7 @@ By the end of this course, students will be able to:
 We will accomplish these objectives through a combination of homework problems, discussions, group peer review activities, and a special project.
 
 ## Policies
-
-See the [Course Policies](policies) for more information on grading, assignments, and other course policies.
+See the [Course Policies](/policies) for more information on grading, assignments, and other course policies.
 
 > **Note:** This course website is currently under construction. Please check back later for more information.
 
