@@ -6,7 +6,7 @@ layout: page
 # CS8803-DSL: Domain Specific Languages for High Performance Computing
 CRN-93621
 
-This course will empower students to design and implement domain-specific programming languages (DSLs) to solve problems in high-performance computing (HPC) contexts. Students will learn basics of compiler construction and language design as it relates to the challenges of high-performance computing and performance engineering. The course will cover topics such as architectural modelling, optimization techniques, and program analysis, through the context of contemorary DSLs and research in the field. It is my hope that any student taking the course will leave with the skills to build compilers to solve programming problems in their own HPC research areas. The course will be project-focused, with a few assignments and a final project to design and implement a DSL for some HPC problem.
+This course will empower students to design and implement Domain-Specific programming Languages (DSLs) to solve problems in High-Performance Computing (HPC) contexts. Students will learn basics of compiler construction and language design as it relates to the challenges of high-performance computing and performance engineering. The course will cover topics such as architectural modelling, optimization techniques, and program analysis, through the context of contemorary DSLs and research in the field. It is my hope that any student taking the course will leave with the skills to build compilers to solve programming problems in their own HPC research areas. The course will be project-focused, with a few assignments and a final project to design and implement a DSL for some HPC problem.
 
 ## Learning Objectives
 
@@ -14,9 +14,8 @@ By the end of this course, students will be able to:
 - Measure and analyze the performance of compilers and HPC programs.
 - Design and implement languages to capture concepts in data/scientific domains.
 - Embed/integrate DSLs in existing programming languages and frameworks.
-- Adapt languages to reflect HPC architectures and programming models.
-- Apply optimization techniques to improve the performance of programs. 
-- Generate efficient code for HPC architectures.
+- Adapt languages to model and target HPC architectures.
+- Apply optimization techniques to improve the performance of generated programs. 
 - Communicate technical concepts to build your career in academic contexts.
 
 We will accomplish these objectives through a combination of homework problems, discussions, group peer review activities, and a special project.
