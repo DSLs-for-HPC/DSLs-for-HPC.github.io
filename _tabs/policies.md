@@ -53,7 +53,7 @@ If individuals are disrespectful to students, course staff, or others via course
 
 ## Academic Integrity
 
-Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For information on Georgia Tech's Academic Honor Code, please visit the [policies website](http://www.catalog.gatech.edu/policies/honor-code/) .  Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will cause immense disappointment to the instructor and be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
+Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For information on Georgia Tech's Academic Honor Code, please visit the [policies website](https://policylibrary.gatech.edu/student-life/academic-honor-code) .  Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will cause immense disappointment to the instructor and be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
 
 ## Statement on the use of Generative AI
 
