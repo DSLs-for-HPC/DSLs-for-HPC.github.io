@@ -72,3 +72,4 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - [Cornell CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2025sp/syllabus/)
 - [UC Berkeley CS267: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2022), Aydin Buluc, Kathy Yelick, James Demmel.
 - [UC Berkeley CS294: Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/)
+- [6.S894: Accelerated Computing](https://accelerated-computing-class.github.io/fall24/)
