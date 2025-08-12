@@ -46,7 +46,7 @@ I seek to create a learning environment welcoming of all students that supports 
 
 - If your name and/or pronouns differ from those that appear in your official records, please let me know.
 - If you feel like your performance in the class is being affected by your experiences outside of class (e.g., family matters, current events), please don’t hesitate to come and talk with me. I want to be a resource for you.
-- I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. You can also talk to the 
+- I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. You can also consult any of the resources listed in the [Georgia Tech Student Resource Guide](https://students.gatech.edu/student-resource-guide).
 - As a participant in this class, recognize that you can be proactive about making other students feel included and respected.
 
 If individuals are disrespectful to students, course staff, or others via course resources, they will lose access to course resources. E.g., if someone is unkind in the course channel, their account will be removed from the channel.
