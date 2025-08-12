@@ -30,7 +30,7 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - **Course Code:** CS8803-DSL  
 - **CRN:** 93621  
 - **Credits:** 3  
-- **Instructor:** Willow Ahrens ([willow@csail.mit.edu](mailto:willow@csail.mit.edu))  
+- **Instructor:** Willow Ahrens ([ahrens@gatech.edu](mailto:ahrens@gatech.edu))  
 - **Office Hours:** TBA
 - **Meeting Room:** Arch 107  
 - **Meeting Time:** Tuesday & Thursday, 12:30–1:45 PM
@@ -64,6 +64,9 @@ See the [Course Policies](/policies) for more information on grading, assignment
 | TBA | **Autoscheduling**<br>• What is Autoscheduling?<br>• Three Ingredients of Autoscheduling (Search Space, Search Strategy, Cost Model)<br>• Autotuning vs. Autoscheduling<br>• Search Space Characterization<br>• Search Strategies | **Readings:**<br>• [Learning to Optimize Halide with Tree Search and Random Program](https://doi.org/10.1145/3306346.3322967) | TBD slides |
 | TBA | **Autoscheduling Revisited**<br>• Cost Modeling (Feature-based/ML, Sparse Cost Models/Cardinality Estimation) | **Readings:**<br>• [How to Architect a Query Compiler](https://doi.org/10.1145/2882903.2915244)<br>• [Autoscheduling for sparse tensor algebra with an asymptotic cost model](https://doi.org/10.1145/3519939.3523442)<br>**Discussion:**<br>• [Galley: Modern Query Optimization for Sparse Tensor Programs](https://doi.org/10.1145/3519939.3523440) | TBD slides |
 | TBA | **Compiling Programs Faster**<br>• Compilation Time vs. Execution Time<br>• Prepared queries<br>• Intepreters vs. Compilers<br>• Turn off Compilation | **Readings:**<br>• [Firefox's Baseline WebAssembly Compiler](https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/)<br>**Discussion:**<br>• [Copy-and-patch compilation: a fast compilation algorithm for high-level languages and bytecode](https://doi.org/10.1145/3485513) | Slides (from Stanford CS343D) |
+| TBA | **Guest Lecture: Fredrik Kjolstad**| **Readings:** | |
+| TBA | **Guest Lecture: Charith Mendis**| **Readings:** | |
+| TBA | **Guest Lecture: Jacob Laurel**| **Readings:** | |
 | TBA | **Final Project Session**<br>• Bring a 5-min Slideshow on your crazy idea that just might work<br>• Peer Feedback <br>• Thinking about Final Projects | **Readings:**<br>•  | |
 
 ## Inspired by
