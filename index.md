@@ -32,6 +32,8 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - **Credits:** 3  
 - **Instructor:** Willow Ahrens ([ahrens@gatech.edu](mailto:ahrens@gatech.edu))  
 - **Office Hours:** TBA
+- **TA**: Vickrant Sreekanth ([vickrant@gatech.edu](mailto:vickrant@gatech.edu))
+- **TA Office Hours:** TBA
 - **Meeting Room:** Arch 107  
 - **Meeting Time:** Tuesday & Thursday, 12:30–1:45 PM
 
