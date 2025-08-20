@@ -12,7 +12,7 @@ This semester is my first attempt at implementing this course and will contain s
 
 ## Collaboration
 
-Group work is not allowed on homework assignments or projects. Each student must submit their own work. However, students are encouraged to discuss concepts, problems, and projects with each other to enhance understanding. Students will have a chance to discuss or work in groups in class, but all submissions must be individual.
+Group work is not allowed on homework assignments. Each student must submit their own work. Sstudents are encouraged to discuss concepts with each other in class to enhance understanding, but all submissions must be individual. Groups of 1-3 will be allowed on the final project.
 
 ## Grading and Evaluation
 
@@ -22,7 +22,7 @@ Individual grading for each assignment and the project will be specified separat
 
 ### Item Weight
 - Participation 25%
-    - 2 points per class: 1 point for attendance, and 1 point for contributing to the discussion.
+    - 1 point per class, please contribute to the discussion. You may skip up to 3 classes, if needed, without penalty.
 - Assignments 25%
     - To support learning during homework excercises, I am allowing one homework resubmission, due one week after the graded homework has been returned.
 - Project 50%
