@@ -42,6 +42,13 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - **Textbook:** [Compilers: Principles, Techniques, and Tools](https://dl.acm.org/doi/10.5555/1177220) (also known as the Dragon Book). I highly recommend you purchase a physical copy of this book, as it is a classic reference text in the field. Please let me know if you have any issues accessing the book, or if cost is an issue.
 - **Additional Readings:** Additional readings will be recommended throughout the course. You will need to authenticate to the [Georgia Tech Library Proxy](https://library.gatech.edu/research-help-support/accessing-eresources) to access the official versions of these readings. For convenience, try adding the papers you read to a citation manager, such as [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/).
 
+## Assignments
+
+There will be three assignments:
+1. Write an essay about a problem you've been thinking about. Don't write about the solution until the very end. Structure your essay as an introduction to a paper.
+2. Write a compiler for APL. We'll likely have options for whether you wish to compile to c or to llvm.
+3. An assignment involving writing Halide schedules.
+
 ## Schedule
 
 | Date | Topics | Readings |
