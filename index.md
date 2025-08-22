@@ -39,7 +39,7 @@ See the [Course Policies](/policies) for more information on grading, assignment
 
 ## Course Materials
 
-- **Textbook:** [Compilers: Principles, Techniques, and Tools](https://dl.acm.org/doi/10.5555/1177220) (also known as the Dragon Book). I highly recommend you purchase a physical copy of this book, as it is a classic reference text in the field. Please let me know if you have any issues accessing the book, or if cost is an issue.
+- **Textbook:** [Compilers: Principles, Techniques, and Tools](https://dl.acm.org/doi/10.5555/1177220) (also known as the Dragon Book). I highly recommend you purchase a physical copy of this book, as it is a classic reference text in the field. There is a course reserve at the library with 2 physical copies, you can ask for them at the library INFOdesk. Please let me know if you have any issues accessing the book, or if cost is an issue.
 - **Additional Readings:** Additional readings will be recommended throughout the course. You will need to authenticate to the [Georgia Tech Library Proxy](https://library.gatech.edu/research-help-support/accessing-eresources) to access the official versions of these readings. For convenience, try adding the papers you read to a citation manager, such as [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/).
 
 ## Assignments
