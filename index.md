@@ -45,7 +45,7 @@ See the [Course Policies](/policies) for more information on grading, assignment
 ## Assignments
 
 There will be three assignments:
-1. [Write an essay about a problem you've been thinking about.](_posts/2025-08-26-assignment1.md)
+1. [Write an essay about a problem you've been thinking about.](/posts/2025-08-26-assignment1.md)
 2. Write a compiler for APL. We'll likely have options for whether you wish to compile to c or to llvm.
 3. An assignment involving writing Halide schedules.
 
