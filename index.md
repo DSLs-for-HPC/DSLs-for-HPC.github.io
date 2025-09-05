@@ -33,7 +33,7 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - **Instructor:** Willow Ahrens ([ahrens@gatech.edu](mailto:ahrens@gatech.edu))  
 - **Office Hours:** Wednesday, 2:30-3:30, KACB 3144
 - **TA**: Vickrant Sreekanth ([vickrant@gatech.edu](mailto:vickrant@gatech.edu))
-- **TA Office Hours:** Friday, 4:00-5:00, KACB 2335 (Crnch Lounge)
+- **TA Office Hours:** Friday, 4:00-5:00, KACB 2335 (Crnch Lounge), [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGM4ZGU1YjgtZDVkMS00ZGM4LTkzNmItZWUzZGMwMTk3NWI0%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22ec71864d-fead-4840-bd87-09dad15216df%22%7d)
 - **Meeting Room:** Arch 107  
 - **Meeting Time:** Tuesday & Thursday, 12:30–1:45 PM
 
