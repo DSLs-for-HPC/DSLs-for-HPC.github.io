@@ -78,8 +78,8 @@ There will be three assignments:
 | November 6 | **Dense Array Programming Revisited**<br/>• Revisiting Dense Array Programming | **Readings:**<br/>• [A Practical Automatic Polyhedral Parallelizer and Locality Optimizer](https://doi.org/10.1145/1375581.1375595)<br/>• [The Pochoir Stencil Compiler](https://doi.org/10.1145/1989493.1989508)<br/>**Discussion:**<br/>• [Exocompilation for Productive Programming of Hardware Accelerators](https://doi.org/10.1145/3519939.3523446) |
 | November 11 | **Final Project Feedback**<br/>• Set up a time to meet with me to discuss final project progress | TBD |
 | November 13 | **Final Project Feedback**<br/>• Set up a time to meet with me to discuss final project progress | TBD |
-| November 18 | **Guest Lecture: Fredrik Kjolstad** | TBD |
-| November 20 | **Guest Lecture: Jacob Laurel** | TBD |
+| November 18 | **Guest Lecture: Fredrik Kjolstad**<br/>• Talk Title: "Portable Compilation in an Accelerated World" <br/>• [Website](https://fredrikbk.com) | **Readings:**<br/>• [Portal: Portable Accelerated Learning](https://portal.stanford.edu/portal-whitepaper-short.pdf) <br/>• [DISTAL: The Distributed Tensor Algebra Compiler](https://doi.org/10.1145/3519939.3523437) |
+| November 20 | **Guest Lecture: Jacob Laurel**<br/>• Talk Title: "Differentiable Programming" <br/>• [Website](https://jsl1994.github.io)| **Readings:**<br/>• [Synthesizing Sound and Precise Abstract Transformers for Nonlinear Hyperbolic PDE Solvers](https://doi.org/10.1145/3763088) |
 | November 25 | **Final Project Session**<br/>• Presentations on final projects <br/>• Peer feedback <br/>• You did it! <br/> | TBD |
 | December 2 | **Final Project Session**<br/>• Presentations on final projects <br/>• Peer feedback <br/>• You did it! <br/> | TBD |
 
